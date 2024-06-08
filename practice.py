@@ -1,1 +1,2 @@
 print("raja")
+print("durga")
